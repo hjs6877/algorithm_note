@@ -2,7 +2,7 @@ package com.itvillage.math;
 
 public class PrimeNumber {
     public static void main(String[] args) {
-        boolean result = isPrime(5);
+        boolean result = isPrime(23);
         if (result) {
             System.out.print("YES");
         } else {
